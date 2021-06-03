@@ -1,0 +1,17 @@
+body{
+    background-color: rgb(214,214, 214);
+}
+
+.container {
+    width: 250px;
+    height:400px;
+    margin:80px auto;
+    border-radius: 25px;
+    background: rgb(214,214, 214);
+    box-shadow: 5px 5px 10px #b6a9a9, -5px -5px 10px #ffffff;
+}
+
+.calculator-box {
+    width:200px;
+    margin:20px auto;
+}
